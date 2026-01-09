@@ -1,7 +1,0 @@
-{
-    "max-instances": "5",
-    "description": "Click to shutdown the system. New overhauled version.",
-    "name": "Shutdown Linux",
-    "version": "2.0",
-    "uuid": "shutdown@phpdreamer"
-}

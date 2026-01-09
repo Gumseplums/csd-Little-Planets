@@ -1,8 +1,0 @@
-{
-  "uuid": "ttv-status@francisco-saez",
-  "max-instances": "10",
-  "name": "Twitch.tv channel status",
-  "description": "Get live status of Twitch channels.",
-  "version": "0.6",
-  "author": "francisco-saez"
-}
